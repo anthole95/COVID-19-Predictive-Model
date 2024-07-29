@@ -37,5 +37,8 @@ The insights gained from these predictive models are crucial for:
 - [Video Demonstration](#)  
   *(Include the URL to your video demonstration here)*
 
-- [Final Project Paper](#)  
-  *(Include the URL to your final project paper here)*
+- [Final Project Paper](https://drive.google.com/file/d/1JPPEuJc_dshzLXJY0oiRo-MdGETvSSM5/view?usp=drive_link)  
+
+- [COVID-19 Dataset](https://www.kaggle.com/datasets/meirnizri/covid19-dataset/data)
+
+- [Trello Board](https://trello.com/b/ukbABM6B/cspb-4502-data-mining-project)
